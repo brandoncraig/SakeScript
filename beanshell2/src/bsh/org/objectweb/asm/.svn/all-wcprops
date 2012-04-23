@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm
+END
+Label.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/Label.java
+END
+Type.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/Type.java
+END
+ClassWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/ClassWriter.java
+END
+Edge.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/Edge.java
+END
+ClassVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/ClassVisitor.java
+END
+ByteVector.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/ByteVector.java
+END
+CodeWriter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/CodeWriter.java
+END
+README-asm.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/README-asm.txt
+END
+CodeVisitor.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/CodeVisitor.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/Constants.java
+END
+Item.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/src/bsh/org/objectweb/asm/Item.java
+END

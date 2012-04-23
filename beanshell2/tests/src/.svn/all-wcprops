@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/2/trunk/tests/src
+END
+Interface.java
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/tests/src/Interface.java
+END
+Exceptions.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tests/src/Exceptions.java
+END
+callFromJava.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/tests/src/callFromJava.java
+END
+InnerClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tests/src/InnerClass.java
+END
+Inherit.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tests/src/Inherit.java
+END
+InterfaceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/tests/src/InterfaceImpl.java
+END
+MethodSelection.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/tests/src/MethodSelection.java
+END
+Fields.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/tests/src/Fields.java
+END
+Base.java
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/tests/src/Base.java
+END
+InterfaceConsumer.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InterfaceConsumer.java
+END

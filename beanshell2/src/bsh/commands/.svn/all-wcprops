@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/62/trunk/src/bsh/commands
+END
+run.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/bsh/commands/run.bsh
+END
+getClass.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/bsh/commands/getClass.bsh
+END
+workspaceEditor.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/src/bsh/commands/workspaceEditor.bsh
+END
+object.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/commands/object.bsh
+END
+setNameSpace.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/setNameSpace.bsh
+END
+exit.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/exit.bsh
+END
+getBshPrompt.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/getBshPrompt.bsh
+END
+load.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/25/trunk/src/bsh/commands/load.bsh
+END
+show.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/show.bsh
+END
+getClassPath.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/getClassPath.bsh
+END
+setFont.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/bsh/commands/setFont.bsh
+END
+mv.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/commands/mv.bsh
+END
+dir.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/28/trunk/src/bsh/commands/dir.java
+END
+reloadClasses.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/bsh/commands/reloadClasses.bsh
+END
+setNameCompletion.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/bsh/commands/setNameCompletion.bsh
+END
+debug.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/debug.bsh
+END
+getResource.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/bsh/commands/getResource.bsh
+END
+bg.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/commands/bg.bsh
+END
+error.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/error.bsh
+END
+importCommands.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/bsh/commands/importCommands.bsh
+END
+save.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/save.bsh
+END
+unset.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/unset.bsh
+END
+setClassPath.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/setClassPath.bsh
+END
+thinBorder.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/commands/thinBorder.bsh
+END
+javap.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/javap.bsh
+END
+importObject.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/importObject.bsh
+END
+setAccessibility.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/bsh/commands/setAccessibility.bsh
+END
+server.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/commands/server.bsh
+END
+cat.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/bsh/commands/cat.bsh
+END
+desktop.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/58/trunk/src/bsh/commands/desktop.bsh
+END
+classBrowser.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/classBrowser.bsh
+END
+bind.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/bind.bsh
+END
+getSourceFileInfo.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/src/bsh/commands/getSourceFileInfo.bsh
+END
+rm.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/commands/rm.bsh
+END
+dirname.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/bsh/commands/dirname.bsh
+END
+printBanner.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/62/trunk/src/bsh/commands/printBanner.bsh
+END
+exec.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/exec.bsh
+END
+cd.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/commands/cd.bsh
+END
+clear.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/clear.bsh
+END
+setStrictJava.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/bsh/commands/setStrictJava.bsh
+END
+editor.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/commands/editor.bsh
+END
+browseClass.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/bsh/commands/browseClass.bsh
+END
+extend.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/commands/extend.bsh
+END
+eval.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/src/bsh/commands/eval.bsh
+END
+frame.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/frame.bsh
+END
+pwd.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/src/bsh/commands/pwd.bsh
+END
+fontMenu.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/bsh/commands/fontMenu.bsh
+END
+addClassPath.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/commands/addClassPath.bsh
+END
+print.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/print.bsh
+END
+sourceRelative.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/bsh/commands/sourceRelative.bsh
+END
+makeWorkspace.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/src/bsh/commands/makeWorkspace.bsh
+END
+pathToFile.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/commands/pathToFile.bsh
+END
+source.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/commands/source.bsh
+END
+which.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/commands/which.bsh
+END
+cp.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/commands/cp.bsh
+END

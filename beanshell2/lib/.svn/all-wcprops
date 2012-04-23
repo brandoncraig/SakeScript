@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/84/trunk/lib
+END
+servlet.jar
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/lib/servlet.jar
+END
+README-libs.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/lib/README-libs.txt
+END
+javacc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/2/trunk/lib/javacc.jar
+END
+bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/lib/bsf.jar
+END
+junit-4.8.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/84/trunk/lib/junit-4.8.2.jar
+END

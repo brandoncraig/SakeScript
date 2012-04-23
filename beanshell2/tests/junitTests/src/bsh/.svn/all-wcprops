@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/109/trunk/tests/junitTests/src/bsh
+END
+Issue_55_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/109/trunk/tests/junitTests/src/bsh/Issue_55_Test.java
+END
+CallStackTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/59/trunk/tests/junitTests/src/bsh/CallStackTest.java
+END
+InterpreterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/87/trunk/tests/junitTests/src/bsh/InterpreterTest.java
+END
+KnownIssue.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/trunk/tests/junitTests/src/bsh/KnownIssue.java
+END
+VarargsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/47/trunk/tests/junitTests/src/bsh/VarargsTest.java
+END
+PreparsedScriptTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/PreparsedScriptTest.java
+END
+BshSerializationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/59/trunk/tests/junitTests/src/bsh/BshSerializationTest.java
+END
+ClassGeneratorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/ClassGeneratorTest.java
+END
+Project_Coin_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/95/trunk/tests/junitTests/src/bsh/Project_Coin_Test.java
+END
+TestUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/68/trunk/tests/junitTests/src/bsh/TestUtil.java
+END
+Issue_7_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/Issue_7_Test.java
+END
+BshMethodTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/43/trunk/tests/junitTests/src/bsh/BshMethodTest.java
+END
+Issue_8_Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/Issue_8_Test.java
+END
+InterpreterConcurrencyTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/59/trunk/tests/junitTests/src/bsh/InterpreterConcurrencyTest.java
+END
+SourceForgeIssuesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/SourceForgeIssuesTest.java
+END
+StringLiteralTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/tests/junitTests/src/bsh/StringLiteralTest.java
+END
+NotSuitedFor_Java5_OrLower.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/92/trunk/tests/junitTests/src/bsh/NotSuitedFor_Java5_OrLower.java
+END
+TestFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/91/trunk/tests/junitTests/src/bsh/TestFilter.java
+END
+OldScriptsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/84/trunk/tests/junitTests/src/bsh/OldScriptsTest.java
+END
+FilteredTestRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/91/trunk/tests/junitTests/src/bsh/FilteredTestRunner.java
+END
+GoogleReports.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/100/trunk/tests/junitTests/src/bsh/GoogleReports.java
+END
+ProjectCoinFeature.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/91/trunk/tests/junitTests/src/bsh/ProjectCoinFeature.java
+END

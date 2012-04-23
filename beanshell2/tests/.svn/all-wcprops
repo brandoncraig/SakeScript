@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/109/trunk/tests
+END
+TestTemplate.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/tests/TestTemplate.bsh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/62/trunk/tests/README.txt
+END

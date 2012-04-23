@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/76/trunk/src/bsh/classpath
+END
+BshClassPath.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/bsh/classpath/BshClassPath.java
+END
+DiscreteFilesClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/src/bsh/classpath/DiscreteFilesClassLoader.java
+END
+ClassManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/76/trunk/src/bsh/classpath/ClassManagerImpl.java
+END
+ClassPathListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/src/bsh/classpath/ClassPathListener.java
+END
+BshClassLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/51/trunk/src/bsh/classpath/BshClassLoader.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/30/trunk/src/bsh/servlet
+END
+getVersion.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/bsh/servlet/getVersion.bsh
+END
+BshServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/30/trunk/src/bsh/servlet/BshServlet.java
+END
+error.template
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/src/bsh/servlet/error.template
+END
+SimpleTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/src/bsh/servlet/SimpleTemplate.java
+END
+example-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/servlet/example-web.xml
+END
+page.template
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/bsh/servlet/page.template
+END
+result.template
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/servlet/result.template
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/servlet/index.html
+END

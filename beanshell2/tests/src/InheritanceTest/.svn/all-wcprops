@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest
+END
+A.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/A.java
+END
+B.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/B.java
+END
+Accessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/Accessor.java
+END
+C.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/C.java
+END
+W.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/W.java
+END
+X.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/X.java
+END
+Y.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/Y.java
+END
+Z.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/tests/src/InheritanceTest/Z.java
+END

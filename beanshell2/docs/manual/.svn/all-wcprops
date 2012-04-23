@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/2/trunk/docs/manual
+END
+classpath.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/docs/manual/classpath.xml
+END
+syntax.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/manual/syntax.xml
+END
+xsl.log
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/docs/manual/xsl.log
+END
+quickstart.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/quickstart.xml
+END
+intro.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/manual/intro.xml
+END
+parser.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/manual/parser.xml
+END
+standalonemode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/docs/manual/standalonemode.xml
+END
+contents.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/manual/contents.xml
+END
+embeddedmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/manual/embeddedmode.xml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/manual/build.xml
+END
+remotemode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/remotemode.xml
+END
+usercommands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/manual/usercommands.xml
+END
+commands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/manual/commands.xml
+END
+scope.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/manual/scope.xml
+END
+foo.rng
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/docs/manual/foo.rng
+END
+strictjava.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/strictjava.xml
+END
+manual.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/manual/manual.xml
+END
+paths.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/manual/paths.xml
+END
+title.xml
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/docs/manual/title.xml
+END
+interfaces.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/interfaces.xml
+END
+servletmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/manual/servletmode.xml
+END
+objects.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/manual/objects.xml
+END
+appletmode.xml
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/appletmode.xml
+END
+specialvarsvalues.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/docs/manual/specialvarsvalues.xml
+END
+execscripts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/manual/execscripts.xml
+END
+bshcommands.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/manual/bshcommands.xml
+END
+more.xml
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/docs/manual/more.xml
+END
+bshdoc.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/manual/bshdoc.xml
+END
+methods.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/manual/methods.xml
+END
+desktop.xml
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/manual/desktop.xml
+END
+reflectivestyle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/docs/manual/reflectivestyle.xml
+END
+bsf.xml
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2/trunk/docs/manual/bsf.xml
+END
+credit.xml
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/2/trunk/docs/manual/credit.xml
+END
+jconsole.xml
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/manual/jconsole.xml
+END
+bshmanual.html
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/bshmanual.html
+END

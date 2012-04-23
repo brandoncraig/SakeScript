@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data
+END
+import_aux1.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/import_aux1.bsh
+END
+import_aux2.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/import_aux2.bsh
+END
+actionHandler.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/actionHandler.bsh
+END
+addclass.jar
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/addclass.jar
+END
+addedCommand.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/addedCommand.bsh
+END
+addedCommand.jar
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/addedCommand.jar
+END
+run_aux.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/run_aux.bsh
+END
+AddClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/AddClass.java
+END
+syntaxerrors.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/syntaxerrors.bsh
+END
+run_aux2.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/tests/test-scripts/Data/run_aux2.bsh
+END

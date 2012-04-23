@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/109/trunk
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/35/trunk/.classpath
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/35/trunk/.project
+END
+BeanShell.ipr
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/BeanShell.ipr
+END
+BeanShell.iml
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/BeanShell.iml
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/97/trunk/build.xml
+END
+BeanShell.iws
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/2/trunk/BeanShell.iws
+END

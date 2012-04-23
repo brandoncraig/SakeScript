@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/2/trunk/docs/manual/xsl
+END
+anchor.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/xsl/anchor.xsl
+END
+example.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/docs/manual/xsl/example.xsl
+END
+tip.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/manual/xsl/tip.xsl
+END
+img.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/docs/manual/xsl/img.xsl
+END
+manual.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/docs/manual/xsl/manual.xsl
+END
+bshcommands.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/docs/manual/xsl/bshcommands.xsl
+END
+imagelist.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/docs/manual/xsl/imagelist.xsl
+END
+note.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/2/trunk/docs/manual/xsl/note.xsl
+END
+identity.xsl
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/docs/manual/xsl/identity.xsl
+END

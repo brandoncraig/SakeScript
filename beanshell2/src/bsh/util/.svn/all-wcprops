@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/62/trunk/src/bsh/util
+END
+JDemoApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/src/bsh/util/JDemoApplet.java
+END
+AWTDemoApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/util/AWTDemoApplet.java
+END
+BshCanvas.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/src/bsh/util/BshCanvas.java
+END
+ClassBrowser.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/28/trunk/src/bsh/util/ClassBrowser.java
+END
+NameCompletion.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/src/bsh/util/NameCompletion.java
+END
+JRemoteApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/src/bsh/util/JRemoteApplet.java
+END
+JConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/28/trunk/src/bsh/util/JConsole.java
+END
+AWTRemoteApplet.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/src/bsh/util/AWTRemoteApplet.java
+END
+Util.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/62/trunk/src/bsh/util/Util.java
+END
+AWTConsole.java
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/src/bsh/util/AWTConsole.java
+END
+NameCompletionTable.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/bsh/util/NameCompletionTable.java
+END
+Httpd.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/util/Httpd.java
+END
+Sessiond.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/src/bsh/util/Sessiond.java
+END
+GUIConsoleInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/src/bsh/util/GUIConsoleInterface.java
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/src/bsh/util/README.txt
+END
